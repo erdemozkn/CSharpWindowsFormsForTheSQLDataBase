@@ -1,0 +1,13 @@
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\bin\Debug\SQLDATATABLE.exe.config
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\bin\Debug\SQLDATATABLE.exe
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\bin\Debug\SQLDATATABLE.pdb
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\obj\Debug\SQLDATATABLE.csproj.AssemblyReference.cache
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\obj\Debug\SQLDATATABLE.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\obj\Debug\SQLDATATABLE.Form1.resources
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\obj\Debug\SQLDATATABLE.Properties.Resources.resources
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\obj\Debug\SQLDATATABLE.csproj.GenerateResource.cache
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\obj\Debug\SQLDATATABLE.csproj.CoreCompileInputs.cache
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\obj\Debug\SQLDATATABLE.exe
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\obj\Debug\SQLDATATABLE.pdb
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\obj\Debug\SQLDATATABLE.Frm_Category.resources
+C:\Users\erdem\OneDrive\Masaüstü\C# Notlar\SQLDATATABLE\obj\Debug\SQLDATATABLE.Frm_Customer.resources
